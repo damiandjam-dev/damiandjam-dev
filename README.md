@@ -31,4 +31,4 @@ To grow as a software engineer by contributing to real production systems and co
 
 ## 📫 Contact
 - Email: djamdamian@email.com
-- LinkedIn: (add soon)
+  
