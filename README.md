@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Damian 👋
 
-<!--
-**damiandjam-dev/damiandjam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at St. Cloud State University  
+💻 Aspiring Full-Stack Developer  
+🚀 Focused on building scalable and real-world web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- JavaScript
+- React (learning)
+- Python
+- FastAPI (learning)
+- SQL / PostgreSQL
+- Git & GitHub
+- REST APIs
+
+---
+
+## 📚 Currently Building
+- Full-stack applications using React & FastAPI
+- Strengthening data structures & algorithms
+- Learning cloud deployment (AWS / Vercel)
+
+---
+
+## 🎯 Career Goal
+To grow as a software engineer by contributing to real production systems and continuously improving my technical skills.
+
+---
+
+## 📫 Contact
+- Email: djamdamian@email.com
+- LinkedIn: (add soon)
